@@ -1,6 +1,5 @@
 """
 Semantic Search System using Endee Vector Database (Mock Implementation)
-RAG REMOVED – Retrieval Only
 """
 
 from flask import Flask, request, jsonify
